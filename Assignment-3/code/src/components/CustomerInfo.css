@@ -1,0 +1,16 @@
+.CustomerInfo {
+    width: 100%;
+    height: 10rem;
+    background: #e1deda;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px;
+    padding: 37px 37px 37px 5px;
+    margin-top: 10px;
+}
+span.details {
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
